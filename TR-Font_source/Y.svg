@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 8.6539364 32.849612"
+   height="124.156"
+   width="123.62"
+   sodipodi:docname="Y.svg"
+   inkscape:version="0.92.1 unknown">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1816"
+     inkscape:window-height="1164"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="2.8371358"
+     inkscape:cx="84.267816"
+     inkscape:cy="50.390306"
+     inkscape:window-x="104"
+     inkscape:window-y="36"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8"
+     units="px" />
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5049-5"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6687"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6791"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6831"
+       is_visible="true" />
+  </defs>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.98655516;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:15;stroke-opacity:1"
+     d="M 29.167969 3.2089844 C 25.21083 3.2089844 22.023438 6.3944354 22.023438 10.351562 C 22.023437 14.308727 25.21083 17.494141 29.167969 17.494141 L 32.380859 17.494141 C 32.532034 18.158136 32.783386 18.811463 33.142578 19.433594 L 54.667969 56.716797 L 54.667969 106.66211 L 50.810547 106.66211 C 46.853405 106.66211 43.667969 109.84756 43.667969 113.80469 C 43.667969 117.76185 46.853405 120.94727 50.810547 120.94727 L 72.810547 120.94727 C 76.767693 120.94727 79.953125 117.76185 79.953125 113.80469 C 79.953125 109.84756 76.767689 106.66211 72.810547 106.66211 L 68.953125 106.66211 L 68.953125 56.714844 L 90.478516 19.433594 C 90.837705 18.811456 91.089061 18.158139 91.240234 17.494141 L 94.453125 17.494141 C 98.410279 17.494141 101.5957 14.308727 101.5957 10.351562 C 101.5957 6.3944354 98.410271 3.2089844 94.453125 3.2089844 L 78.453125 3.2089844 C 74.495987 3.2089844 71.310547 6.3944354 71.310547 10.351562 C 71.310547 13.24437 73.016771 15.718657 75.478516 16.84375 L 61.810547 40.517578 L 48.142578 16.84375 C 50.604325 15.718657 52.310547 13.24437 52.310547 10.351562 C 52.310547 6.3944354 49.125115 3.2089844 45.167969 3.2089844 L 29.167969 3.2089844 z "
+     transform="matrix(0.26458337,0,0,0.26458337,-12.02693,0)"
+     id="rect4485-6-1-4-9-6-8-8" />
+</svg>
